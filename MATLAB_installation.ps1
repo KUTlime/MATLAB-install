@@ -1,5 +1,5 @@
 ﻿# MATLAB automatic installation script
-# author: Zahradník (radek.zahradnik@msn.com)
+# author: Zahradník (www.radekzahradnik.cz)
 # Date: 2016-08-08
 # Version: 1.0
 # Purpose: This script performs a silent installation of MATLAB (R2016a).
